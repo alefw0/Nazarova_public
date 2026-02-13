@@ -1,0 +1,23 @@
+# --- LaTeX ---
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+
+# --- Solo main de docs para la versión pública----
+*.bib
+*.tex
+!main.tex
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+src/pruebas.py
+
+# --- macOS ---
+.DS_Store
