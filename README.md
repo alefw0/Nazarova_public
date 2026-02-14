@@ -6,3 +6,12 @@ En este primer acercamiento a mi gran objetivo, no uso objetos interesantes de l
 Este proyecto se compone de dos partes:
 - Carpera docs: Acá está todo el contenido de documentación, que decidí hacerlo lo más simple y plano posible, para escalarlo fácilmente a otros tipos de documentos.
 - Carpeta src: Acá estará el algoritmo de Nazarova-Roiter, escrito en pyhton.
+
+
+## Licencia / License
+
+Este repositorio utiliza un licenciamiento dual para separar la implementación algorítmica del trabajo académico inédito:
+
+* **Código Fuente (`/src`):** Todo el código en Python se distribuye bajo la **Licencia MIT**. Eres libre de usarlo, modificarlo y distribuirlo con fines académicos o comerciales, siempre y cuando se incluya el aviso de copyright original. Ver el archivo `LICENSE` en la raíz para más detalles.
+
+* **Documento Académico y Figuras (`/docs`):** Todos los derechos reservados (All Rights Reserved). El código LaTeX, el texto del manuscrito, las demostraciones matemáticas y los diagramas son material de investigación en curso, destinado a publicación académica. No se permite su reproducción, distribución, traducción o modificación sin el permiso expreso del autor.
